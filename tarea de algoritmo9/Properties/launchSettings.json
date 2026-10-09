@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "tarea de algoritmo9": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
